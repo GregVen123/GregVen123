@@ -9,6 +9,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently studying Finance with a certificate in Business Analytics 
 - 📫 How to reach me: https://www.linkedin.com/in/greg-venizelos/
 -->
-- 🔭 I’m currently working on automating certain financial tasks to assist with valuation excel models
+- 🔭 I’m currently working on automating certain financial tasks to assist with valuation models in excel
 - 🌱 I’m currently studying Finance with a certificate in Business Analytics 
 - 📫 How to reach me: https://www.linkedin.com/in/greg-venizelos/
